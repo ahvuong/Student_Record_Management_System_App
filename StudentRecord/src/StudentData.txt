@@ -1,0 +1,9 @@
+123456 Vu Diep ComSci 3.4
+546897 Anh Vuong Informatics 4.0
+564656 Trung Truc ComSci 3.9
+234689 Thu Diep Imformatics 3.2
+111222 Brian Song ComSci 3.8
+111333 Henry Le Simp 3.6
+111444 Ti Huynh Dealer 1.0
+111555 Candido Gutierrez Engineering 3.0
+-999
